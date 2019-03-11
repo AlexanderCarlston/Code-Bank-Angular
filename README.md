@@ -27,3 +27,8 @@ This project started as my capstone project for Galvanize, a end of class projec
 * [Wireframe](https://www.figma.com/file/aijDn8RZjWPCgT5fNQs3MWHS/Code-Bank?node-id=0%3A1) - My wireframing tool
 
 ## Original Vue Project
+
+https://github.com/AlexanderCarlston/CODE-BANK
+<br>
+This is the original project done in Vue/Vuex/Vuetify and more. I'm starting a job in Angular 7 so that's the reason why I'm switching to the current technology.
+
