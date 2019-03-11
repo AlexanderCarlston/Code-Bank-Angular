@@ -4,7 +4,7 @@
 
 <!-- TOC -->
 
-- [Markdown Navigation](#markdown-navigation)
+- [Navigation](#navigation)
     - [Intro](#intro)
     - [Technology](#technology)
     - [Project Managment](#project-managment)
