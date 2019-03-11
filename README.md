@@ -2,6 +2,15 @@
 
 > Ultimate storage and export of github gists.
 
+<!-- TOC -->
+
+- [Markdown Navigation](#markdown-navigation)
+    - [Intro](#intro)
+    - [Technology](#technology)
+    - [Project Managment](#)
+
+<!-- /TOC -->
+
 ## Intro
 
 This project started as my capstone project for Galvanize, a end of class project where I dived in to unfimilar technologies to make a Miniumum Viable Product that I would show case in front of an audience. I succesfully completed this, but didn't have the experience to fully flesh out my idea. After 7 months of experience I'm coming back to make the complete product that I wanted to when I started this project.
