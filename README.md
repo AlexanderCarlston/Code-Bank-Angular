@@ -8,6 +8,7 @@
     - [Intro](#intro)
     - [Technology](#technology)
     - [Project Managment](#project-managment)
+    - [Orignal Project](original-vue-project)
 
 <!-- /TOC -->
 
@@ -24,3 +25,5 @@ This project started as my capstone project for Galvanize, a end of class projec
 ## Project Managment
 * [Kanban Board](https://waffle.io/AlexanderCarlston/Code-Bank-Angular) - My Kanban Board
 * [Wireframe](https://www.figma.com/file/aijDn8RZjWPCgT5fNQs3MWHS/Code-Bank?node-id=0%3A1) - My wireframing tool
+
+## Original Vue Project
