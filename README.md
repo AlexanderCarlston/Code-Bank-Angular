@@ -8,7 +8,7 @@
     - [Intro](#intro)
     - [Technology](#technology)
     - [Project Managment](#project-managment)
-    - [Orignal Project](original-vue-project)
+    - [Orignal Project](#original-vue-project)
 
 <!-- /TOC -->
 
