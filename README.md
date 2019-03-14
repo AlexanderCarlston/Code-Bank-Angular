@@ -9,7 +9,7 @@
     - [Technology](#technology)
     - [Project Managment](#project-managment)
     - [Orignal Project](#original-vue-project)
-
+    - [Minimum Viable Product](#mvp)
 <!-- /TOC -->
 
 ## Intro
@@ -32,3 +32,4 @@ https://github.com/AlexanderCarlston/CODE-BANK
 <br>
 This is the original project done in Vue/Vuex/Vuetify and more. I'm starting a job in Angular 7 so that's the reason why I'm switching to the current technology.
 
+## MVP
