@@ -9,7 +9,7 @@
     - [Technology](#technology)
     - [Project Managment](#project-managment)
     - [Orignal Project](#original-vue-project)
-    - [Minimum Viable Product](#mvp)
+    - [Minimum Viable Product](#mvp-functionality)
 <!-- /TOC -->
 
 ## Intro
@@ -32,4 +32,9 @@ https://github.com/AlexanderCarlston/CODE-BANK
 <br>
 This is the original project done in Vue/Vuex/Vuetify and more. I'm starting a job in Angular 7 so that's the reason why I'm switching to the current technology.
 
-## MVP
+## MVP Functionality
+As a user I want to be able to import my gists from Github. (OAuth sign in)
+As a user I want to be able to select which gists I import. 
+As a user I want to be able to store my gists from Github.
+As a user I want to be able to categorize my gists. 
+As a user I want to be able to export my categorized gists into a npm package. (JavaScript Vaults)
