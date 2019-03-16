@@ -41,3 +41,6 @@ As a user I want to be able to categorize my gists.
 As a user I want to be able to export my categorized gists into a npm package. (JavaScript Vaults)
 
 ## Design Inspiration
+
+Since I'm using Clarity Design, I decided to use their documentation for inspiration. I used their header as an example of how to do a responsive header.
+<br>
