@@ -44,4 +44,10 @@ As a user I want to be able to export my categorized gists into a npm package. (
 
 Since I'm using Clarity Design, I decided to use their documentation for inspiration. I used their header as an example of how to do a responsive header.
 <br>
+Header:
+<br>
 ![Header](https://imgur.com/JjzhGww.png)
+<br>
+Header on mobile:
+<br>
+![Mobile](https://imgur.com/BBsEnBg.png)
