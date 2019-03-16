@@ -10,6 +10,7 @@
     - [Project Managment](#project-managment)
     - [Orignal Project](#original-vue-project)
     - [Minimum Viable Product](#mvp-functionality)
+    - [Design Planning](#design-planning)
 <!-- /TOC -->
 
 ## Intro
@@ -38,3 +39,5 @@ As a user I want to be able to select which gists I import.
 As a user I want to be able to store my gists from Github.
 As a user I want to be able to categorize my gists. 
 As a user I want to be able to export my categorized gists into a npm package. (JavaScript Vaults)
+
+## Design Planning
