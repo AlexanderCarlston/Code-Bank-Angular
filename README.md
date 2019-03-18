@@ -11,6 +11,7 @@
     - [Orignal Project](#original-vue-project)
     - [Minimum Viable Product](#mvp-functionality)
     - [Design Inspiration](#design-inspiration)
+    - [Design Planning](#design-planning)
 <!-- /TOC -->
 
 ## Intro
@@ -49,3 +50,5 @@ Since I'm using Clarity Design, I decided to use their documentation for inspira
 Header on mobile:
 <br>
 ![Mobile](https://imgur.com/BBsEnBg.png)
+
+## Design Planning
