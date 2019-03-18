@@ -12,6 +12,7 @@
     - [Minimum Viable Product](#mvp-functionality)
     - [Design Inspiration](#design-inspiration)
     - [Design Planning](#design-planning)
+
 <!-- /TOC -->
 
 ## Intro
@@ -36,9 +37,13 @@ This is the original project done in Vue/Vuex/Vuetify and more. I'm starting a j
 
 ## MVP Functionality
 As a user I want to be able to import my gists from Github. (OAuth sign in)
+<br>
 As a user I want to be able to select which gists I import. 
+<br>
 As a user I want to be able to store my gists from Github.
+<br>
 As a user I want to be able to categorize my gists. 
+<br>
 As a user I want to be able to export my categorized gists into a npm package. (JavaScript Vaults)
 
 ## Design Inspiration
