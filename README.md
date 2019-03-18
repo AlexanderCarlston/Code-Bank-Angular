@@ -59,3 +59,15 @@ Header on mobile:
 ![Mobile](https://imgur.com/BBsEnBg.png)
 
 ## Design Planning
+
+### Landing Page
+
+test
+
+### Bank
+
+test
+
+### Vault
+
+test
