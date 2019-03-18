@@ -62,6 +62,10 @@ Header on mobile:
 
 ## Design Planning
 
+### Header
+
+![Header](https://imgur.com/YKPuGZu.png)
+
 ### Landing Page
 
 The main purpose of the landing page is to introduce people to the website. With that in mind basic info, and the explanation of why Code Bank exists should be made. 
