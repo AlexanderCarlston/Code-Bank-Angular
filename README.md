@@ -64,12 +64,12 @@ Header on mobile:
 
 ### Landing Page
 
-test
+The main purpose of the landing page is to introduce people to the website. With that in mind basic info, and the explanation of why Code Bank exists should be made. 
 
 ### Bank
 
-test
+The bank is where the storage of gists happen, will have to implement a library and figure out how to do tags.
 
 ### Vault
 
-test
+Vaults are the exportation of gists, and will have to make a npm package that handles all of this
