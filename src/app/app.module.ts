@@ -7,10 +7,10 @@ import { ClarityModule } from '@clr/angular';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NavComponent } from './nav/nav.component';
 import { LandingComponent } from './landing/landing.component';
+import { RouterModule, Routes } from '@angular/router';
 
-const appRoutes = [
-
-
+const appRoutes : Routes = [
+  { path: "/", component: LandingComponent}
 ]
 
 @NgModule({
@@ -24,7 +24,10 @@ const appRoutes = [
     AppRoutingModule,
     ClarityModule,
     BrowserAnimationsModule,
-
+    RouterModule.forRoot(
+      appRoutes,
+      { enableTracing: true } // <-- debugging purposes only
+    )
   ],
   providers: [],
   bootstrap: [AppComponent]
