@@ -10,7 +10,7 @@ import { LandingComponent } from './landing/landing.component';
 import { RouterModule, Routes } from '@angular/router';
 
 const appRoutes : Routes = [
-  { path: "/", component: LandingComponent}
+  { path: "", component: LandingComponent}
 ]
 
 @NgModule({
